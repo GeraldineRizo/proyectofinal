@@ -1,0 +1,11 @@
+.caja{
+    display: flex;
+}
+
+.nose{
+    background-color:powderblue;
+}
+
+.btn.btn-primary{
+    margin-left: 2%;
+}
